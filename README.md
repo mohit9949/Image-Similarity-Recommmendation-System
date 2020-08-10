@@ -14,7 +14,7 @@ This file consists of all the features extracted from the dataset for the respec
 - sklearn
 - numpy
 - matplotlib
-- tenforflow==2.2.0
+- tensorflow==2.2.0
 - tqdm
 ## Architecture 1:
 <img src="https://raw.githubusercontent.com/mohit9949/Image-Similarity-Recommmendation-System/master/architecture.JPG">
